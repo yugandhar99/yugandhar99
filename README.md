@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-Yugandhar Ethamukkala is a Senior DevOps Engineer with **9+ years of experience** building secure, scalable CI/CD and cloud automation solutions across **AWS, Azure, and GCP**. He specializes in pipeline engineering, Infrastructure as Code, and DevSecOps practices supporting large-scale healthcare and public-sector environments.  
+I'm a Senior Cloud & DevOps Engineer with **9+ years of experience** building secure, scalable CI/CD and cloud automation solutions across **AWS, Azure, and GCP**. He specializes in pipeline engineering, Infrastructure as Code, and DevSecOps practices supporting large-scale healthcare and public-sector environments.  
 
 His expertise includes Jenkins, GitHub, Terraform, Ansible, Nexus, SonarQube, and container orchestration using Kubernetes and Helm. Yugandhar has delivered modernization initiatives for integrated eligibility and clinical systems, emphasizing automation, compliance, and zero-downtime deployments. He is known for strong collaboration across development, QA, and infrastructure teams to streamline delivery and enhance reliability.
 
@@ -76,24 +76,7 @@ His expertise includes Jenkins, GitHub, Terraform, Ansible, Nexus, SonarQube, an
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
 </a>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yugandhar-e&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugandhar-e&layout=compact&theme=transparent"/>
-</p>
-
----
-
-## 🔥 GitHub Contributions
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=yugandhar-e&theme=transparent" />
-</p>
-
----
 
 ## 🏆 Trophies
 
