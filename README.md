@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
-**yugandhar99/yugandhar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">👋 Hi, I'm <strong>Yugandhar Ethamukkala</strong></h1>
-<h3 align="center">DevOps Engineer | Cloud Engineer | SRE</h3>
-
----
 
 ### 👨‍💻 About Me
 
