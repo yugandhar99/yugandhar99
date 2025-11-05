@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3EB489&center=true&vCenter=true&width=600&lines=Hi+There!+👋;+I'm+Yugandhar+Ethamukkala!;DevOps+Engineer+|+Cloud+Engineer+|+SRE;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3EB489&center=true&vCenter=true&width=600&lines=Hi+There!+👋;+;Welcome+to+my+GitHub+Profile!">
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Yugandhar Ethamukkala</strong></h1>
