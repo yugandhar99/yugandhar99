@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-Yugandhar Ethamukkala is a Senior DevOps Engineer with **9+ years of experience** building secure, scalable CI/CD and cloud automation solutions across **AWS, Azure, and GCP**. He specializes in pipeline engineering, Infrastructure as Code, and DevSecOps practices supporting large-scale healthcare and public-sector environments.  
+I'm a Senior DevOps & Cloud Engineer with **9+ years of experience** building secure, scalable CI/CD and cloud automation solutions across **AWS, Azure, and GCP**. He specializes in pipeline engineering, Infrastructure as Code, and DevSecOps practices supporting large-scale healthcare and public-sector environments.  
 
 His expertise includes Jenkins, GitHub, Terraform, Ansible, Nexus, SonarQube, and container orchestration using Kubernetes and Helm. Yugandhar has delivered modernization initiatives for integrated eligibility and clinical systems, emphasizing automation, compliance, and zero-downtime deployments. He is known for strong collaboration across development, QA, and infrastructure teams to streamline delivery and enhance reliability.
 
@@ -50,32 +50,4 @@ His expertise includes Jenkins, GitHub, Terraform, Ansible, Nexus, SonarQube, an
 🔗 **LinkedIn:** [linkedin.com/in/yugandhar-e-63863b172](https://www.linkedin.com/in/yugandhar-e-63863b172)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugandhar-e&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugandhar-e&layout=compact&theme=transparent" height="160"/>
-</p>
-
----
-
-## 🔥 GitHub Contributions
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yugandhar-e&theme=transparent" height="160"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yugandhar-e&theme=flat&margin-w=5"/>
-</p>
-
----
-
-> ⭐ **“Continuous improvement is better than delayed perfection.”**
-
 
