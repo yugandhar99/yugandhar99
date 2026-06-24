@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Senior Cloud & DevOps Engineer with **9+ years of experience** building secure, scalable CI/CD and cloud automation solutions across **AWS, Azure, and GCP**. He specializes in pipeline engineering, Infrastructure as Code, and DevSecOps practices supporting large-scale healthcare and public-sector environments.  
+I'm a Senior Cloud & DevOps Engineer with **4+ years of experience** building secure, scalable CI/CD and cloud automation solutions across **AWS, Azure, and GCP**. He specializes in pipeline engineering, Infrastructure as Code, and DevSecOps practices supporting large-scale healthcare and public-sector environments.  
 
 His expertise includes Jenkins, GitHub, Terraform, Ansible, Nexus, SonarQube, and container orchestration using Kubernetes and Helm. Yugandhar has delivered modernization initiatives for integrated eligibility and clinical systems, emphasizing automation, compliance, and zero-downtime deployments. He is known for strong collaboration across development, QA, and infrastructure teams to streamline delivery and enhance reliability.
 
