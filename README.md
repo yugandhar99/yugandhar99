@@ -27,7 +27,7 @@
 
 ---
 
-## 👋 Welcome to My  Cloud & DevOps Command Center
+## 👋 Welcome to My Cloud & DevOps Command Center
 
 I’m **Yugandhar Ethamukkala**, a **Cloud & DevOps Engineer** focused on building automation-first, reliable, and production-ready cloud platforms.
 
