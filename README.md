@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yugandhar Ethamuk kala
+# Yugandhar Ethamukkala
 
 <h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&lines=Cloud+Engineer;DevOps+%7C+Platform+Engineer;Site+Reliability+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability" alt="Typing SVG" />
