@@ -29,7 +29,7 @@
 
 ## 👋 Welcome to My Cloud & DevOps Command Center
 
-I’m **Yugandhar Ethamukkala**, a **Cloud, DevOps & Platform Engineer** with **3+ years of experience** spanning platform support, delivery automation, cloud engineering, and site reliability across healthcare and enterprise environments.
+I’m **Yugandhar Ethamukkala**, a **Cloud, DevOps & Platform Engineer** with **5+ years of experience** spanning platform support, delivery automation, cloud engineering, and site reliability across healthcare and enterprise environments.
 
 My work centers on **AWS infrastructure, Terraform, Kubernetes, CI/CD, GitOps, observability, and production incident response**, with additional Azure and GCP platform experience.
 
@@ -112,7 +112,7 @@ I connect metrics, logs, traces, and alerts to practical incident response and s
 
 ## 🧠 Experience Snapshot
 
-### CVS Health — Cloud Engineer | May 2025 – present
+### Molina Healthcare — Cloud Engineer | Aug 2024 – Sep 2026
 
 - Standardized AWS infrastructure for **10+ healthcare services** with Terraform across VPC, EC2, EKS, S3, IAM, Route 53, KMS, and CloudWatch.
 - Shifted delivery to **GitHub Actions, Argo CD, Helm, Docker, and Kubernetes**, cutting release effort by **60%**.
@@ -128,6 +128,12 @@ I connect metrics, logs, traces, and alerts to practical incident response and s
 - Supported **6 application environments** with Docker, Amazon ECS, Git, and Ansible.
 - Added IAM, SonarQube, and Trivy checks to CI/CD workflows and automated Linux maintenance with Bash and Python.
 - Monitored releases with CloudWatch, ELK, and PagerDuty; coordinated validation and incident escalation with application and infrastructure teams.
+
+### Augur Talentcare Pvt Ltd — Platform Support Engineer | Dec 2020 – Jan 2022
+
+- Tracked readiness for **30+ infrastructure items** in a cloud migration project and prepared **20+ Linux servers** for migration testing.
+- Automated server checks and log collection with Bash and Python, reducing routine support effort by **35%**.
+- Troubleshot SSH, DNS, VPC connectivity, services, and filesystem issues; documented recovery steps and support runbooks.
 
 ---
 
